@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifazan
+- 👋 Hi, I’m arifargh
 - 👀 I’m interested in anything, really
 - 🌱 I’m currently learning React.js and working at it
 - 💞️ I’m looking to collaborate on simple projects, I'm new to react.js and interested to join
